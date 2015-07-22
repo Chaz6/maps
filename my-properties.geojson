@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 1,
+        "Description": "The house of Chris Hills.",
+        "Address": "61 Trinity Lane, Hinckley, LE10 0BQ, United Kingdom",
+        "Country": "GB",
+        "area_type_1": "Building",
+        "area_type_2": "House",
+        "area_type_3": "Terraced",
+        "road_link_usrn": "",
+        "created_on": "2015/07/22T13:10:00Z",
+        "created_by": "Chris Hills <chaz@chaz6.com>",
+        "updated_on": "2015/07/22T13:10:00Z",
+        "updated_by": "Chris Hills <chaz@chaz6.com>",
+        "valid_from": "2013/03/01T00:00:00Z",
+        "valid_to": "2999/12/31T00:00:00Z"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.3753321,
+              52.5422944
+            ],
+            [
+              -1.375204,
+              52.54229
+            ],
+            [
+              -1.37521,
+              52.5422536
+            ],
+            [
+              -1.375337,
+              52.542258
+            ],
+            [
+              -1.3753321,
+              52.5422944
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
